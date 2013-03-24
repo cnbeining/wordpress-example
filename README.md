@@ -2,10 +2,12 @@ Wordpress on OpenShift
 ======================
 
 ----------------------
+
 !!!IMPORTANT!!!
 
 THIS VERSION HAS NO SSL TO WORK WITH CLOUDFLARE. THIS WILL REDUCE ITS SAFETY, 
 BUT THE SAME AS THE UPDATE OF wordpress-example BEFORE MARCH, 2013.
+
 ----------------------
 
 This git repository helps you get up and running quickly w/ a Wordpress installation
