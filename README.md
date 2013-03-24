@@ -1,6 +1,13 @@
 Wordpress on OpenShift
 ======================
 
+----------------------
+!!!IMPORTANT!!!
+
+THIS VERSION HAS NO SSL TO WORK WITH CLOUDFLARE. THIS WILL REDUCE ITS SAFETY, 
+BUT THE SAME AS THE UPDATE OF wordpress-example BEFORE MARCH, 2013.
+----------------------
+
 This git repository helps you get up and running quickly w/ a Wordpress installation
 on OpenShift.  The backend database is MySQL and the database name is the 
 same as your application name (using $_ENV['OPENSHIFT_APP_NAME']).  You can name
